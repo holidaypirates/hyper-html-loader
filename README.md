@@ -1,4 +1,4 @@
-# hyperhtml-loader
+# hyper-html-loader
 [HyperHTML](https://github.com/WebReflection/hyperHTML) loader for webpack
 
 turns
