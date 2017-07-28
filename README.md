@@ -27,6 +27,9 @@ module.exports = {
         test: /\.hyper.html?$/,
         use: [
           {
+            loader: 'babel-loader'
+          },
+          {
             loader: 'hyper-html-loader'
           },
         ]
