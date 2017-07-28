@@ -27,7 +27,7 @@ module.exports = {
         test: /\.hyper.html?$/,
         use: [
           {
-            loader: 'hyperhtml-loader'
+            loader: 'hyper-html-loader'
           },
         ]
       },
